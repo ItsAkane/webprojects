@@ -12,10 +12,17 @@ body {
 }
 
 header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 0 15px;
+    background-color: #ff80b3;
     margin-bottom: 20px;
     width: 100%;
     display: flex;
     justify-content: center;
+    gap: 50px;
 }
 
 iframe {
