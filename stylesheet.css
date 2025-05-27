@@ -80,7 +80,7 @@ temporizer {
     background-color: #e60073;
 }
 #img_viada {
-    width: 200px; /* Ajuste o tamanho conforme necessário */
+    width: 200px;
     height: auto;
     border-radius: 15px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
